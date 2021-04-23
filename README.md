@@ -36,6 +36,12 @@ Trail 2|0.25|30|82.1
 Trail 3|0.225|25|82.17
 Trail 4|0.175|25|82.42
 
+**Contributions:**
+Joel: Research and debugger
+Mounika: Implemented code 
+Mohan: Implemented code and learning more in depth on CNN models
+Zach: Commented code and provided accuracy methods
+
 **References:**
 Explanation regarding imports: 
 1. https://en.wikipedia.org/wiki/NumPy
