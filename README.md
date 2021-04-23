@@ -29,12 +29,15 @@ Then we added another conventional layer with same activation and padding but wi
 **Results:** 
 Initially we set the dropout to 0.15 and epochs to 25 and our model has an accuracy of 80.23%. Our goal was to increase the accuracy of this model to maximum extent we can. So we changed the dropout and epoch values a couple of times to reach the highest accuracy possible.
 
+ |**Dropout(%)**|**Epochs**|**Accuracy(%)**
+:-----:|:-----:|:-----:|:-----:
+Trail 1|0.15|25|80.23
+Trail 2|0.25|30|82.1
+Trail 3|0.225|25|82.17
+Trail 4|0.175|25|82.42
 
-| --------------- | Dropout | Epochs | Accuracy |
-| Trail 1 | 0.15 | 25 | 80.23 |
-| Trail 2 | 0.25 | 30 | 82.17 |
-| Trail 3 | 0.225 | 25 | 82.17 |
-| Trail 4 | 0.175 | 25 | 82.42 |
+
+
 
 
 
