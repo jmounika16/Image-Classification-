@@ -38,9 +38,9 @@ Trail 4|0.175|25|82.42
 
 **References:**
 Explanation regarding imports: 
-https://en.wikipedia.org/wiki/NumPy
-https://www.tensorflow.org/
-https://keras.io/
+1. https://en.wikipedia.org/wiki/NumPy
+2. https://www.tensorflow.org/
+3. https://keras.io/
 
 The model our group referred to:
 https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/#:~:text=Definitions%201%20TensorFlow%2FKeras.%20Credit%3A%20commons.wikimedia.org%20TensorFlow%20is%20an,label%20for%20that%20image.%203%20Feature%20Extraction.%20
