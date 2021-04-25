@@ -38,7 +38,7 @@ Trail 4|0.175|25|82.42
 
 **Contributions:**
 Joel: Research and debugger
-Mounika: Implemented code 
+Mounika: Implemented code and README.md file
 Mohan: Implemented code and learning more in depth on CNN models
 Zach: Commented code and provided accuracy methods
 
